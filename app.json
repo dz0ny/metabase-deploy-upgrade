@@ -14,7 +14,9 @@
   "success_url": "/setup",
   "env": {},
   "addons": [
-    "plan": "heroku-postgresql:standard-0"
+    {
+      "plan": "heroku-postgresql:standard-0"
+    }
   ],
   "buildpacks": [
     {
