@@ -13,6 +13,12 @@
   "logo": "https://avatars3.githubusercontent.com/u/10520629?v=3&s=200",
   "success_url": "/setup",
   "env": {},
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "standard-1x"
+    }
+  },
   "addons": [
     {
       "plan": "heroku-postgresql:standard-0"
